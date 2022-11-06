@@ -16694,7 +16694,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 
 var _ = __webpack_require__(990);
-var url = "http://localhost:5000/";
+var url = "http://103.168.135.163:5000/";
 var main_appBar = document.querySelector("app-bar");
 var vformEntri = document.querySelector("form-entri");
 var dtAwalx = [{
