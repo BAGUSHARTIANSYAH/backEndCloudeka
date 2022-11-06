@@ -14,7 +14,7 @@ import $ from "jquery";
 
 const _ = require('lodash/core');
 
-const url="http://localhost:5000/";
+const url="http://103.168.135.163:5000/";
 const appBar=document.querySelector("app-bar");
 const vformEntri=document.querySelector("form-entri");
 
